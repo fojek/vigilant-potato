@@ -24,7 +24,7 @@ Affichage de l'état :
  - Autre led : trig effectué (distance)
 
 Todo
-[ ] Déterminer un format
-[ ] Choisir ESP et MCU
-[ ] Choisir capteur ultrason
-[ ] Fabriquer PCB et tester
+- [ ] Déterminer un format
+- [ ] Choisir ESP et MCU
+- [ ] Choisir capteur ultrason
+- [ ] Fabriquer PCB et tester
