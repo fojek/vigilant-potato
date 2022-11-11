@@ -23,5 +23,8 @@ Affichage de l'état :
  - Autre led : Rouge si erreur (ou la même avec une autre séquence)
  - Autre led : trig effectué (distance)
 
-[ ] Déterminer un format
-[ ] Choisir ESP et MCU
+Todo
+[] Déterminer un format
+[] Choisir ESP et MCU
+[] Choisir capteur ultrason
+[] Fabriquer PCB et tester
