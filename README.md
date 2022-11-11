@@ -22,3 +22,6 @@ Affichage de l'état :
  - Vert solide : ON et connecté
  - Autre led : Rouge si erreur (ou la même avec une autre séquence)
  - Autre led : trig effectué (distance)
+
+[ ] Déterminer un format
+[ ] Choisir ESP et MCU
